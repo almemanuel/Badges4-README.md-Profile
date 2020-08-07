@@ -8,14 +8,18 @@ Improve your README.md profile with these amazing badges. See sample on [my prof
 3. Copy and paste on your profile
 
 ## Menu
-- [📱 Contact](#-contact-)
-- [👨 Social](#-social-)
-- [📝 Blog](#-blog-)
-- [🎞 Streaming](#-streaming-)
-- [🚀 Skills](#-skills-)
-- [🎮 Games](#-games-)
-- [🐸 Others](#-others-)
-- [✏ Make yourself](#-make-yourself-)
+- [Welcome! Badges 4 README.md Profile](#welcome-badges-4-readmemd-profile)
+  - [How to use?](#how-to-use)
+  - [Menu](#menu)
+  - [📱 Contact](#-contact)
+  - [👨👩 Social 🔝](#-social-)
+  - [📝 Blog 🔝](#-blog-)
+  - [🎞 Streaming 🔝](#-streaming-)
+  - [🚀 Skills 🔝](#-skills-)
+  - [🎮🕹 Games 🔝](#-games-)
+  - [🐸 Others 🔝](#-others-)
+  - [✏ Make yourself 🔝](#-make-yourself-)
+  - [More](#more)
 
 ## 📱 Contact
 
@@ -61,7 +65,7 @@ Image | Uri
 <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" /> | ``` https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white ```
 <img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" /> | ``` https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white ```
 <img src="https://img.shields.io/badge/dotnet-net%23239120.svg?&style=flat-square&logo=dot-net&logoColor=white" /> | ``` https://img.shields.io/badge/dotnet-net%23239120.svg?&style=flat-square&logo=dot-net&logoColor=white ```
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" /> | ``` https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black ```
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" /> | ``` https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black ```
 
 
 
